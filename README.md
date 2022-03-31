@@ -15,22 +15,19 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
   
 <!-- TABLE OF CONTENTS -->
 <div width="100%" align="left">
-  <details align="start>
+  <details>
   <summary>Table of Contents</summary>
   <div>
-    <ol>
-      <li></li>            
-      <li><a href="#about-the-project">About The Project</a></li>
-      <li><a href="#built-with">Built With</a></li>
-      <li><a href="#getting-started">Getting Started</a></li>
-      <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#installation">Installation</a></li>
-      <li><a href="#usage">Usage</a></li>
-      <li><a href="#roadmap">Roadmap</a></li>
-      <li><a href="#contributing">Contributing</a></li>
-      <li><a href="#license">License</a></li>
-      <li><a href="#contact">Contact</a></li>
-      <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <ol>          
+      <li>
+        <a href="#über das Projekt">About The Project</a>
+        <ul>
+          <li><a href="#Tech-Stack">Built With</a></li>
+        </ul>
+      </li>
+      <li><a href="#Bewerbung"
+      <li><a href="#license">Lizenz</a></li>
+      <li><a href="#Kontakt">Contact</a></li>
     </ol>
   </details>
 </div>
@@ -43,7 +40,7 @@ Prototype Fund Bewerbung Runde 12 2022:
 ![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_4.png?raw=true)
 
 <!-- LICENSE -->
-## License
+## Lizenz
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
