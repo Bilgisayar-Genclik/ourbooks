@@ -1,5 +1,5 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url]
 
 # ourbooks
 OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusammen.
