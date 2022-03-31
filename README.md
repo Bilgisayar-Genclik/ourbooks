@@ -26,7 +26,7 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
         </ul>
       </li>
       <li><a href="#Bewerbung"
-      <li><a href="#license">Lizenz</a></li>
+      <li><a href="#Lizenz">Lizenz</a></li>
       <li><a href="#Kontakt">Contact</a></li>
     </ol>
   </details>
