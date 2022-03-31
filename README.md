@@ -16,7 +16,7 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
 <!-- TABLE OF CONTENTS -->
 <div width="100%" align="left">
   <details>
-  <summary>Table of Contents</summary>
+  <summary>Inhaltsverzeichnis</summary>
   <div>
     <ol>          
       <li>
@@ -31,48 +31,16 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
     </ol>
   </details>
 </div>
-  
-  s
-  s
-  s
-  s
-  s
-  s
-  s
-  
-  s
-  
-  s
-  s
-  s
-  s
-  s
-  
-  s
-  s
-  s
-  s
-  s
-  s
-  s
-  ss
-  
-  s
-  s
-  s
-  
-  s
-  s
-  s
+
 <!-- Application -->
 ## Prototype Fund Bewerbung Runde 12 2022
 
 OURBOOKS bewirbt sich auf den [Prototype Fund](https://prototypefund.de/).
-  
-![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_1.png?raw=true)
-![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_2.png?raw=true)
-![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_3.png?raw=true)
-![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_4.png?raw=true)
+
+![Seite 1](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_1.png?raw=true)
+![Seite 2](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_2.png?raw=true)
+![Seite 3](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_3.png?raw=true)
+![Seite 4](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_4.png?raw=true)
 
 <!-- LICENSE -->
 ## Lizenz
