@@ -11,7 +11,7 @@
     <img src="https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooknewlogo.png" alt="Logo" width="435" height="340">
   </a>
 
-OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusammen.
+## OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusammen.
   
 <!-- TABLE OF CONTENTS -->
 <div width="100%" align="left">
@@ -20,22 +20,56 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
   <div>
     <ol>          
       <li>
-        <a href="#über das Projekt">About The Project</a>
+        <a href="#über das Projekt">über das Projekt</a>
         <ul>
-          <li><a href="#Tech-Stack">Built With</a></li>
+          <li><a href="#Tech-Stack">Tech-Stack</a></li>
         </ul>
       </li>
       <li><a href="#Prototype Fund Bewerbung Runde 12 2022">Prototype Fund Bewerbung Runde 12 2022</a></li>
       <li><a href="#Lizenz">Lizenz</a></li>
-      <li><a href="#Kontakt">Contact</a></li>
+      <li><a href="#Kontakt">Kontakt</a></li>
     </ol>
   </details>
 </div>
+  
+<!-- About the Project -->
+## Über das Projekt 
+  
+OURBOOKS, eine dezentrale digitale Bibliothek, ist die Möglichkeit Wissen in Form von Büchern in einen “Transferkreis” zu bringen. 
+Bücher werden für jeden zugänglicher und mit dem damit entstehenden Austausch in Gruppen 
+werden zwischenmenschliche Verbindungen und Netzwerke in der Gesellschaft gefördert und unterstützt. 
+  
+<!-- Tech-Stack -->
+## Tech-Stack
+  
+<div width="100%" align="left">
+  Das Projekt wird mit:<p>
 
+  **Frontend:**
+  
+  * [Javascript](https://de.wikipedia.org/wiki/JavaScript)
+  * [React.js](https://reactjs.org/)
+  
+  <p>
+    
+  **Backend:**
+  
+  <p>
+  
+  * [Java](https://www.java.com/de/)
+  * [Spring Boot](https://spring.io/projects/spring-boot)
+
+  realisiert.
+</div>
+  
 <!-- Application -->
 ## Prototype Fund Bewerbung Runde 12 2022
-
-OURBOOKS bewirbt sich auf den [Prototype Fund](https://prototypefund.de/).
+  
+<div width="100%" align="left">
+  
+OURBOOKS bewirbt sich für den [Prototype Fund](https://prototypefund.de/).
+  
+</div>
 
 ![Seite 1](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_1.png?raw=true)
 ![Seite 2](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_2.png?raw=true)
@@ -45,12 +79,16 @@ OURBOOKS bewirbt sich auf den [Prototype Fund](https://prototypefund.de/).
 <!-- LICENSE -->
 ## Lizenz
 
+<div width="100%" align="left">
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+</div>
   
 <!-- Contact -->
 ## Kontakt
 
+<div width="100%" align="left">
 Email: ourbookfire@gmail.com
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
