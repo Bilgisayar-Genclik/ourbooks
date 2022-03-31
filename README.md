@@ -32,7 +32,8 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
   </details>
 </div>
   
-Prototype Fund Bewerbung Runde 12 2022:
+<!-- Application -->
+## Prototype Fund Bewerbung Runde 12 2022
   
 ![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_1.png?raw=true)
 ![alt text](https://github.com/norvin-sourcecode/ourbooks/blob/main/repository-assets/ourbooks_pdf_bild_2.png?raw=true)
