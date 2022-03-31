@@ -20,4 +20,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [contributors-shield]: https://img.shields.io/github/contributors/norvin-sourcecode/ourbooks.svg?style=for-the-badge
 [contributors-url]: https://github.com/norvin-sourcecode/ourbooks/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/norvin-sourcecode/ourbooks.svg?style=for-the-badge
-[license-url]: https://github.com/norvin-sourcecode/ourbooks/blob/master/LICENSE.txt
+[license-url]: https://github.com/norvin-sourcecode/ourbooks/blob/main/LICENSE
