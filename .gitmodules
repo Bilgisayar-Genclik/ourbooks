@@ -1,0 +1,9 @@
+[submodule "Backend/ourbooks-spring-boot-server"]
+	path = Backend/ourbooks-spring-boot-server
+	url = https://github.com/norvin-sourcecode/ourbooks-spring-boot-server
+[submodule "Front/ourbooks-react-native-app"]
+	path = Front/ourbooks-react-native-app
+	url = https://github.com/norvin-sourcecode/ourbooks-react-native-app
+[submodule "Frontend/ourbooks-react-native-app"]
+	path = Frontend/ourbooks-react-native-app
+	url = https://github.com/norvin-sourcecode/ourbooks-react-native-app
