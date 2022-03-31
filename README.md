@@ -25,7 +25,7 @@ OURBOOKS - die dezentrale digitale Bibliothek bringt uns und unser Bücher zusam
           <li><a href="#Tech-Stack">Built With</a></li>
         </ul>
       </li>
-      <li><a href="#Bewerbung"
+      <li><a href="#Bewerbung">Prototype Fund Bewerbung Runde 12 2022</a></li>
       <li><a href="#Lizenz">Lizenz</a></li>
       <li><a href="#Kontakt">Contact</a></li>
     </ol>
