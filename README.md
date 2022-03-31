@@ -46,6 +46,11 @@ OURBOOKS bewirbt sich auf den [Prototype Fund](https://prototypefund.de/).
 ## Lizenz
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+  
+<!-- Contact -->
+## Kontakt
+
+Email: ourbookfire@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
