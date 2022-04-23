@@ -25,7 +25,7 @@
           <li><a href="#Tech-Stack">Tech-Stack</a></li>
         </ul>
       </li>
-      <li><a href="#Prototype Fund Bewerbung Runde 12 2022">Prototype Fund Bewerbung Runde 12 / 2022</a></li>
+      <li><a href="#Prototype Fund Bewerbung Runde 12 / 2022">Prototype Fund Bewerbung Runde 12 / 2022</a></li>
       <li><a href="#Lizenz">Lizenz</a></li>
       <li><a href="#Kontakt">Kontakt</a></li>
     </ol>
