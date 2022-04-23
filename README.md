@@ -63,7 +63,7 @@ werden zwischenmenschliche Verbindungen und Netzwerke in der Gesellschaft geför
 </div>
   
 <!-- Application -->
-## Prototype Fund Bewerbung Runde 12 2022
+## Prototype Fund Bewerbung Runde 12 / 2022
   
 <div width="100%" align="left">
   
